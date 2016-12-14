@@ -1,0 +1,7 @@
+{
+    "name": "Pieter Marsman",
+    "project_name": "Data science in R template",
+    "save_project_name": "data_science_in_r_template",
+    "input_data_folder": "/where/is/your/data",
+    "output_data_folder": "/where/to/store/intermediate/data"
+}
